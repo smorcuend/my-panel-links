@@ -1,5 +1,5 @@
 var colors=["rgba(80, 151, 149,0.5)","rgba(134, 181, 49,0.5)","rgba(134, 151, 199,0.5)","rgba(154, 151, 49,0.5)"];
-var i=0,var transitionColorInterval;
+var i=0,transitionColorInterval;
 
 $(document).ready(function() {
   
